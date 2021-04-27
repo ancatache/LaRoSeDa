@@ -17,7 +17,7 @@ You are free to **share** (copy and redistribute the material in any medium or f
 Please cite the corresponding work (see citation.bib file to obtain the citation in [BibTex](citation.bib) format) if you use this data set and software (or a modified version of it) in any scientific work:
 
 **[1] Anca Maria Tache, Mihaela Gaman, Radu Tudor Ionescu. Clustering Word Embeddings with Self-Organizing Maps. Application on
-LaRoSeDa – A Large Romanian Sentiment Data Set. ArXiv, 2021  [(link to paper)](https://arxiv.org/pdf/2101.04197.pdf).**
+LaRoSeDa – A Large Romanian Sentiment Data Set. In Proceedings of EACL, pp. 949–956, 2021.  [(link to paper)](https://www.aclweb.org/anthology/2021.eacl-main.81.pdf).**
 
 ## Dataset
 
